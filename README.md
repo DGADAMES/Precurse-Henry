@@ -1,2 +1,1 @@
-# Precurse-Henry
-Este es un repositorio del modulo 2 del precurse de Henry
+Prueba de como crear un repositorio y clonarlo desde githud a mi computadora 
